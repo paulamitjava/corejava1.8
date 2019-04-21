@@ -1,0 +1,33 @@
+Level - 1
+=========
+JDK-JRE-JVM Concepts
+OOPs Concepts - Object, Class, Methods, Encapsulation, Polymorphism, Inheritance, Abstraction, Composition
+Constrctor, access modifiers
+Object and String class
+Array - User Defined
+Wrapper Class and Type Casting
+Input/Output(I/O) - Scanner, BufferedReader, Commandline Arguments
+Exception Handling
+Serialization
+File Handling
+
+Level - 2
+=========
+Multithreading and Concurrency
+Generics and Collection Framework
+Regular Expression
+
+Level - 3
+=========
+Java 1.8 new features (18th March 2014)
+   - Lamda Expression and Functional Interface
+   - default and static method in interface
+   - Stream API for Bulk Data Operations
+   - Collection API Improvements 
+     - Iterable's forEach(), stream() and parallelStream(), spliterator(), compute(), merge(), remove(), replace() 
+     - HashMap Improvements (Balanced Tree)
+   - Concurrency API Improvements
+     - ConcurrentHashMap - compute(), forEach(), forEachEntry(), forEachKey(), forEachValue(), merge(), reduce() and search()
+   - Date/Time API (java.time)
+   
+   JDBC-ODBC Bridge and PermGen memory space has been removed
